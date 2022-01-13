@@ -3,6 +3,7 @@ main{
   vertical-align: top;
 }
 aside{
+  width: 33%;
   text-align: center;
   display:inline-block
 }
@@ -12,10 +13,12 @@ aside{
   top:275px;
 }
 div{
+  width: 33%;
   display:inline-block;
   vertical-align: top;
 }
 section{
+  width:33%;
   display:inline-block;
   vertical-align: top;
 }
